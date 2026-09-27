@@ -1,0 +1,1 @@
+This project focuses on **email spam classification** using Machine Learning and Natural Language Processing (NLP). It uses **TF-IDF** for text feature extraction and applies **Logistic Regression** and **Naive Bayes** algorithms to classify emails as spam or legitimate. The models are trained and evaluated using standard classification metrics to compare their performance.
